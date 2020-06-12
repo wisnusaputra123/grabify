@@ -1,11 +1,4 @@
 <!--
-Author: CybrDev
-Github: https://github.com/CybrDev
-Description: Just a simple code to show you as it's simple and powerful to get information about a person
-Don't trust anyone online.
-Only for educational purposes!!
-
-
 
     ___
  __/_  `.  .-"""-.
